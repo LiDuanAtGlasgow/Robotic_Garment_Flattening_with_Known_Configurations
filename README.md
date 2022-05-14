@@ -6,11 +6,11 @@ Robotic garment flattening is a challenge in research due to that garments have 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VzGj0BML9ro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Examples of 'Known Configurations' Manipulations
-<img src="images/Paper- Manipulation_Demonstration.jpg" width="1200" height="700">
+<img src="images/Paper-KCNet_GarNet-Robotic_Demonstration_Examples.jpg" width="1200" height="700">
 
 ## Downloads
 <img src="images/Page_Design_Paper.png" width="50" height="50"><img src="images/Page_Design_Code.png" width="50" height="50"><img src="images/Page_Design_Database.png" width="50" height="50">\
- [<a taget="_blank" title="Paper" href="https://www.overleaf.com/read/zhjhhfgvvhnw">Paper</a>][<a taget="_blank" title="Code" href="https://github.com/LiDuanAtGlasgow/known_configurations">Code</a>][<a taget="_blank" title="Database" href="https://gla-my.sharepoint.com/:u:/g/personal/2168518d_student_gla_ac_uk/EYzzjcNlfS1Gsp772qxqqHgBhSWW59DyeQeN5tJ252Dpsg?e=frlymY">Database</a>]
+ [<a taget="_blank" title="Paper" href="https://www.overleaf.com/read/ttsfcwnfxvwp">Paper</a>][<a taget="_blank" title="Code" href="https://github.com/LiDuanAtGlasgow/KCNet-GarNet">Code</a>][<a taget="_blank" title="Database" href="https://gla-my.sharepoint.com/:u:/g/personal/2168518d_student_gla_ac_uk/EYzzjcNlfS1Gsp772qxqqHgBhSWW59DyeQeN5tJ252Dpsg?e=frlymY">Database</a>]
 
  
 
