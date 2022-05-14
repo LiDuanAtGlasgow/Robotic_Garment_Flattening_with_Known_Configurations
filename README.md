@@ -1,2 +1,1 @@
 # KCNet-GarNet
-# KCNet-GarNet
