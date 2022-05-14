@@ -6,7 +6,7 @@ Robotic garment flattening is a challenge in research due to that garments have 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VzGj0BML9ro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Examples of 'Known Configurations' Manipulations
-<img src="images/Paper-KCNet_GarNet-Robotic_Demonstration_Examples.jpg" width="1200" height="600">
+<img src="images/Paper-KCNet_GarNet-Robotic_Demonstration_Examples.jpg" width="1200" height="550">
 
 ## Downloads
 <img src="images/Page_Design_Paper.png" width="50" height="50"><img src="images/Page_Design_Code.png" width="50" height="50"><img src="images/Page_Design_Database.png" width="50" height="50">\
