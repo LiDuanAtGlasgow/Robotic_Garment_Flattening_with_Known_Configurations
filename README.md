@@ -3,7 +3,7 @@
 Garment flattening remains a popular challenge in robotic research. Due to the high dimensionality of object states, garment flattening requires recognising configurations of garments before making manipulation plans to flatten them. In this paper, we propose a data-centric approach to identify known configurations of garments based on a known configuration network (KCNet) trained on depth images that capture the known configurations of garments and prior knowledge on shapes of garments. We found that known configuration recognition accuracy is 92.0%, outperforming our previous work where KCNet is trained only on the depth images (89.0%). We also demonstrate the robotic flattening of garments with our proposed approach.
 
 ## Video Demonstration
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jan34kn9ZUE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j7yEbJcAgDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Examples of 'Known Configurations' Manipulations
 <img src="images/Paper-KCNet_GarNet-Robotic_Demonstration_Examples.jpg" width="1200" height="550">
