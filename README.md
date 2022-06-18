@@ -1,4 +1,4 @@
-# KCNet-GarNet: A Data-Centric Approach For Dual-Armed Robotic Garment Flattening
+# A Data-Centric Approach For Dual-Armed Robotic Garment Flattening
 ## Abstract
 Garment flattening remains a popular challenge in robotic research. Due to the high dimensionality of object states, garment flattening requires recognising configurations of garments before making manipulation plans to flatten them. In this paper, we propose a data-centric approach to identify known configurations of garments based on a known configuration network (KCNet) trained on depth images that capture the known configurations of garments and prior knowledge on shapes of garments. We found that known configuration recognition accuracy is 92.0%, outperforming our previous work where KCNet is trained only on the depth images (89.0%). We also demonstrate the robotic flattening of garments with our proposed approach.
 
